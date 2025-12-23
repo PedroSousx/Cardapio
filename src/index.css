@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reset e Styles Base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white text-gray-900 font-sans antialiased;
+  line-height: 1.6;
+}
+
+a {
+  @apply text-inherit no-underline;
+}
+
+button {
+  @apply cursor-pointer;
+}
+
