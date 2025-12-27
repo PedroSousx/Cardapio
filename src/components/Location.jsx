@@ -50,7 +50,8 @@ function Location(){
 
             <div>
               <img
-                src="/bakery-storefront-outdoor-location-nice-neighborho.jpg"
+                src=""
+                // src="/bakery-storefront-outdoor-location-nice-neighborho.jpg"
                 alt="Fachada da Pastelaria"
                 className="rounded-lg shadow-lg w-full h-full object-cover"
               />
